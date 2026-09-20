@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Testscope | 問題品質レビュー',
+  title: 'Knowledge Scape | 問題品質レビュー',
   description: 'テスト実施者向け 問題・問題セット品質の評価用モック',
 };
 
